@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tivele</string>
+<!--    <string name="facebook_app_id">854450878376248</string>-->
+<!--    <string name="facebook_app_id">255522475875852</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb854450878376248</string>-->
+
+<!--    <string name="facebook_app_id">2425662381059060</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb2425662381059060</string>-->
+<!--    <string name="facebook_app_id">255522475875852</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb255522475875852</string>-->
+<!--    <string name="facebook_app_id">2425662381059060</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb2425662381059060</string>-->
+<!--    <string name="facebook_app_id">386241802793699</string>-->
+<!--    <string name="facebook_app_id">770966700223792</string>-->
+<!--    <string name="fb_login_protocol_scheme">fb770966700223792</string>-->
+    <string name="facebook_app_id">911191276399790</string>
+    <string name="fb_login_protocol_scheme">fb911191276399790</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639840965553",
+    "project_id": "tivele-f2024",
+    "storage_bucket": "tivele-f2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639840965553:android:cf1fff5b61c0aaa42aa390",
+        "android_client_info": {
+          "package_name": "com.tivele"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639840965553-mcvesf98u0hajln08j2qvf3hgcnoodh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSt6KKK7JNmlUbb2E5uZftNUB77x821yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639840965553-mcvesf98u0hajln08j2qvf3hgcnoodh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
